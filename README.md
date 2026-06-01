@@ -1,1 +1,1 @@
-# Exercises-part2
+Exercises part2
